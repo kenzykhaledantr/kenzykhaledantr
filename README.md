@@ -54,6 +54,25 @@ I'm a **React Native Developer** focused on building polished, performant mobile
 
 ---
 
+🚀 Featured Project — Elite Retail
+
+**What it includes:**
+- 🔐 Firebase Authentication — secure login, registration, and persistent sessions
+- 🛍 Product catalogue — Firestore backend with React Query caching
+- 🛒 Cart + 3-step checkout — address selection, delivery, and payment
+- 📍 Address management — add, edit, delete, and set default shipping addresses
+- 💳 Payment methods — visual card UI with live preview and card-type detection
+- 📦 Order history — full order tracking with status filter and progress tracker
+- 🌙 Dark mode — full app-wide theme system persisted across restarts
+- 🔔 Push notifications — order confirmation, welcome, and price drop alerts
+- ⚡ Animations — card press scale, badge bounce, heart pop, screen stagger
+- 🛡 Production polish — Error Boundary, offline banner, form validation, skeletons
+  
+
+https://github.com/user-attachments/assets/696242ed-992a-4b23-b03b-008de2c7b09e
+
+---
+
 ### 📬 Get in Touch
 
 <div align="left">

@@ -71,6 +71,9 @@ I'm a **React Native Developer** focused on building polished, performant mobile
 
 https://github.com/user-attachments/assets/696242ed-992a-4b23-b03b-008de2c7b09e
 
+## 📲 Download
+[Download APK (Android)](https://github.com/kenzykhaledantr/E-commerce/releases/tag/v1.0.0)
+
 ---
 
 ### 📬 Get in Touch

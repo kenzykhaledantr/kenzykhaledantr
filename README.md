@@ -50,7 +50,7 @@ I'm a **React Native Developer** focused on building polished, performant mobile
 - Implemented **camera integration** features to extend the app's visual capabilities
 - Used **Firebase** for secure authentication, data storage, and real-time chat
 - Crafted an intuitive, responsive UI that boosted employee engagement
-- 📈 Improved employee response rate by **40%** through chatbot integration
+- 📈 Improved employee response rate by **60%** through chatbot integration
 
 ---
 
